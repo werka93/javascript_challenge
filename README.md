@@ -19,8 +19,13 @@ A simple contacts management application with Create, Read, Update, and Delete f
 3. Start managing your contacts!
 
 ## Team Contributions
-- Ana : update and delete , Java, css
-- Werka : create and read operations, CSS, Java 
+# Ana :
+-  Display list of contacts
+-  Add new contacts
+  # Werka:
+- Delete contacts
+-  Update contact information
+-  Loading indicator
 
 ## Technologies Used
 1. add td elements
